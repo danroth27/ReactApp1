@@ -1,0 +1,13 @@
+{
+  "configurations": {
+    "reactapp1.client": {
+      "appLocation": ".",
+      "outputLocation": "dist",
+      "appBuildCommand": "npm run build",
+      "run": "npm run dev",
+      "appDevserverUrl": "http://localhost:5173",
+      "appName": "jsps-swa",
+      "resourceGroup": "jsps-swa-test"
+    }
+  }
+}
